@@ -1,2 +1,2 @@
 # python_patterns
-python claen code examples
+python clean code examples
